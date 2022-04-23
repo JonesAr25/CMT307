@@ -28,7 +28,7 @@ from mpl_toolkits import mplot3d
 
 #Neural Networks
 from sklearn.datasets import fetch_openml
-from sklearn.datasets import fetch_mldata
+#from sklearn.datasets import fetch_mldata
 from sklearn.neural_network import MLPClassifier
 
 
